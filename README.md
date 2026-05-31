@@ -16,4 +16,5 @@ Telegram бот для записи клиентов.
 
 ```bash
 pip install -r requirements.txt
+
 это тестовый вариант
